@@ -1,6 +1,6 @@
 This is just a template for a timer used in C++.
 
-It allows you to time a function call to about 4 decimal places using wall-time and about 2 decimal places using cpu time.
+It allows you to time a function call to 6 decimal places using wall-time and 2 decimal places using cpu time.
 
 To use, after cloning and entering the root directory, issue the following command:
 
